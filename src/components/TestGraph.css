@@ -1,0 +1,21 @@
+.chartCanvas {
+    width: 90%;
+    /* height: 25vh; */
+    /* display: flex;
+    flex-direction: column; */
+    margin: 0 auto;
+}
+.title {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.actualChart {
+    width: 90%;
+    max-width: 550px;
+    margin: 0 auto;
+}
+
+.actualChart canvas {
+    width: 100%;
+}

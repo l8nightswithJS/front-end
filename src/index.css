@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    color: #293845;
+    font-family: "Barlow", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+li,
+span {
+    color: #293845;
+    font-weight: 600;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+}
+
+input {
+    border: solid 1px lightgray;
+    border-radius: 8px;
+}
+
+p,
+a,
+li,
+span {
+    font-size: 100%;
+}
+
+.App {
+    overflow: hidden;
+}

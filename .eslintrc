@@ -1,0 +1,18 @@
+{
+    "extends": "kentcdodds",
+    "rules": {
+        // your overrides
+        "no-unused-expressions": "off",
+        "babel/quotes": "off",
+        "react/display-name": "off",
+        "react/prop-types": "off",
+        "react/jsx-pascal-case": "off",
+        "max-lines-per-function": "off"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2017
+    },
+    "env": {
+        "es6": true
+    }
+}
